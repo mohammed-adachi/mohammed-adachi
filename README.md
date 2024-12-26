@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohammed adachi</h1>
-<h3 align="center">A passionate full stack developer from morocco</h3>
+<h3 align="center">💻 Développeur Full-Stack & Étudiant en Master Informatique et Intelligence Artificielle
+
+📚 Actuellement inscrit en Master, je me spécialise dans les domaines de l'Intelligence Artificielle et du développement logiciel avancé. Mon parcours combine des compétences techniques en développement web et des connaissances approfondies en apprentissage automatique et en traitement de données massives.
+
+🤖 Passionné par les innovations en IA, je m'intéresse au machine learning, au deep learning, et aux applications pratiques de l’IA dans des solutions technologiques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-adachi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-adachi" /> </p>
 
