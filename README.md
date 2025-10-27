@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm mohammed adachi</h1>
-<h3 align="center">💻 Développeur Full-Stack & Étudiant en Master Informatique et Intelligence Artificielle</h3>
+<h3 align="center">💻Étudiant en Master Informatique | Passionné par l'Intelligence Artificielle, Machine Learning & Deep Learning
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-adachi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-adachi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-adachi" alt="mohammed-adachi" /></a> </p>
 
-- 🌱 I’m currently learning **django , Devops , JEE**
+-🌱 I’m currently learning TensorFlow, PyTorch, NLP, LLMs
 
-- 💬 Ask me about **react , flask , php , spring ,express js**
+-💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP
 
 - 📫 How to reach me **mohammed.adachi@uit.ac.ma**
 
